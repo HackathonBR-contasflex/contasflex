@@ -1,35 +1,37 @@
-## Interface Mobile do App Nubank
+<center><img src="./assets-readme/logo.png" alt="ContasFlex: Sua vida mais Flex!" width="300px" /></center>
 
-Esse projeto é uma versão alternativa do aplicativo apresentado em vídeo aula da [Rocketseat](https://github.com/Rocketseat/youtube-react-native-nubank), mas agora utilizando Expo.
-Algumas ferramentas/frameworks apresentados no vídeo durante o desenvolvimento da aplicação, não foram utilizadas nesta versão.
+# <center>ContasFlex</center>
 
-Vídeo da Rocketseat replicando a interface do Nubank com React Native: https://youtu.be/DDm0M_rZLJo
+## 💡 Proposta
+<i>Plataforma multi usuário que visa centralizar informações gerais de cartões e contas bancárias além de automatizar tarefas de pagamentos e investimentos.</i> 
 
-### Requisitos
+### 💪 Funcionalidades poderosas:
 
-- NodeJS (para a instalação de pacotes pelo npm)
-- Expo v36+
+- Permite acesso a informações das faturas dos mais variados cartões, valores e vencimentos além do saldos de contas bancárias / fintechs. 
+- Com os alertas as faturas não são esquecidas e fica-se por dentro da melhor oferta para investimentos. 
+- O automatizador define se as faturas podem ser pagas na data correta e indicar a origem dos valores. Para as contas é possível automizar os investimentos a partir de regras sugeridas ou personalizadas para mover os valores entre as instituições e investimentos.
 
-### Executando o projeto
+<hr />
 
-- Instale o Expo globalmente - `npm install -g expo-cli`
-- Instale as dependências - `npm i` ou `expo i`
-- Execute o projeto - `expo start`
+## 🤝 Diferenciais
+- Facilidade no gerenciamento de suas contas bancárias
+- Acesso centralizado a oportunidades de investimento considerando todos os serviços disponibilizados pelas instituições financeiras cadastradas
+- Mais flexibilidade e agilidade para seu cotidiano
 
-Para mais detalhes, acesse a [documentação](https://docs.expo.io/versions/v36.0.0/get-started/installation/).
+### 🤩 Benefícios para todos
+- App intuitivo e de fácil utilização
+- Compatibilidade com todos os bancos e fintechs disponíveis no mercado
 
-### Observações 
 
-Pode ocorrer o seguinte erro ao tentar rodar o app pela primeira vez:
+## ⚙ Tecnologias
 
-![package-error](https://user-images.githubusercontent.com/27246482/75368725-e9dfee80-58a0-11ea-9123-29e908da1fe3.png)
+* [Create-React-App](https://github.com/facebook/create-react-app)
+* [Material-UI](https://github.com/mui-org/material-ui)
+* [React-Router](https://github.com/ReactTraining/react-router)
+  
 
-#### Como Resolver
-
-- Desinstale o react-native-svg - `npm un react-native-svg`
-- Execute o projeto (resultará em erro ao tentar encontrar o módulo react-native-svg) - `expo start`
-- Interrompa a execução do mesmo - `Ctrl+C`
-- Instale o react-native-svg novamente utilizando expo - `expo install react-native-svg`
-- Execute o projeto novamente - `expo start`
-
-Caso os passos acima não tenham solucionado o problema, [clique aqui](https://github.com/react-native-community/react-native-svg/issues/1273#issuecomment-583109771) para mais informações.
+ ## 💪 Time
+  - Daniel Leite (Designer)  [LinkedIn](https://www.linkedin.com/in/daniel-leite-aa17b843/) . [Behance](https://www.behance.net/danielrodrigo)
+  - Léo Moraes (Business) [LinkedIn](https://www.linkedin.com/in/leohmoraes/)
+  - Everton Ferreira (Dev) [LinkedIn](https://www.linkedin.com/in/evertonferreira96/)
+  - Vinicius Passos (Dev) [LinkedIn](https://www.linkedin.com/in/vtpa/) . [GitHub](https://github.com/vtpa)
