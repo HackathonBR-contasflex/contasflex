@@ -1,6 +1,7 @@
-<center><img src="./assets-readme/logo.png" alt="ContasFlex: Sua vida mais Flex!" width="300px" /></center>
+<p align="center"><img src="./assets-readme/logo.png" alt="ContasFlex: Sua vida mais Flex!" width="300px" /></center>
 
-# <center>ContasFlex</center>
+# ContasFlex
+</p>
 
 ## 💡 Proposta
 <i>Plataforma multi usuário que visa centralizar informações gerais de cartões e contas bancárias além de automatizar tarefas de pagamentos e investimentos.</i> 
@@ -21,13 +22,13 @@
 ### 🤩 Benefícios para todos
 - App intuitivo e de fácil utilização
 - Compatibilidade com todos os bancos e fintechs disponíveis no mercado
-
+- Automatização de tarefas conforme necessidade do usuário
 
 ## ⚙ Tecnologias
 
-* [Create-React-App](https://github.com/facebook/create-react-app)
-* [Material-UI](https://github.com/mui-org/material-ui)
-* [React-Router](https://github.com/ReactTraining/react-router)
+* [React](https://github.com/facebook/react)
+* [React Native](https://github.com/facebook/react-native)
+* [Styled Components](https://styled-components.com/)
   
 
  ## 💪 Time
