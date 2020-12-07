@@ -10,9 +10,7 @@ export default function Menu({translateY}){
 	    	inputRange: [0, 150],
 	    	outputRange: [0, 1]
 	    })}}>
-			<Code>
-				<QRCode value="https://rocketseat.com.br" logoSize={80} backgroundColor="#FFF" color="#8b10AE"/>
-			</Code>
+			
 			<Nav>
 				<NavItem>
 				<Icon name="help-outline" size={20} color="#FFF" />
@@ -38,3 +36,11 @@ export default function Menu({translateY}){
 		</Container>
 	)
 }
+
+/*
+
+<Code>
+	<QRCode value="https://rocketseat.com.br" logoSize={80} backgroundColor="#FFF" color="#8b10AE"/>
+</Code>
+
+*/
