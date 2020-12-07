@@ -1,4 +1,4 @@
-<p align="center"><img src="./assets-readme/logo.png" alt="ContasFlex: Sua vida mais Flex!" width="300px" /></center>
+<p align="center"><img src="./assets-readme/logo.png" alt="ContasFlex: Sua vida mais Flex!" width="100%" /></center>
 
 # ContasFlex
 </p>
